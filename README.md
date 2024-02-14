@@ -1,4 +1,4 @@
-#Parcial computacion orientada a servicios
+##Parcial computacion orientada a servicios
 
 Restauración de la Base de Datos
 Para restaurar la base de datos desde el archivo de respaldo ubicado en la carpeta db, sigue estos pasos:
