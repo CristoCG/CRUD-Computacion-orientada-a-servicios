@@ -1,6 +1,6 @@
-#Parcial computacion orientada a servicios
+## Parcial computacion orientada a servicios
 
-Restauración de la Base de Datos
+## Restauración de la Base de Datos
 Para restaurar la base de datos desde el archivo de respaldo ubicado en la carpeta db, sigue estos pasos:
 
 Abre tu cliente de MySQL.
@@ -13,8 +13,8 @@ Importa el archivo de respaldo backupDB.sql ubicado en la carpeta db:
 
 SOURCE "RUTA DEL BACKUP";
 
-Instalación
-Descarga el repositorio o clonalo
+## Instalación
+Clona el repositorio 
 
 Accede al directorio del proyecto:
 
@@ -42,7 +42,7 @@ Una vez registrado, podrás acceder al inicio.
 
 Puedes cerrar sesión en cualquier momento y no podrás acceder al inicio hasta que inicies sesión nuevamente.
 
-API
+## API
 Puedes acceder a la API de usuarios utilizando la siguiente ruta:
 
 http://localhost:3001/api/db/users
@@ -50,6 +50,5 @@ http://localhost:3001/api/db/users
 Y para la API de costumers:
 
 http://localhost:3001/api/db/costumers
-
 
 //Colección de postman en la carpeta postman junto al entorno (incompleto)
